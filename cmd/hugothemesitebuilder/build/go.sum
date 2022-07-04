@@ -40,6 +40,8 @@ github.com/AmazingRise/hugo-theme-diary v0.0.0-20220414144622-c14fdc977d76 h1:+a
 github.com/AmazingRise/hugo-theme-diary v0.0.0-20220414144622-c14fdc977d76/go.mod h1:jFlSWwFHa+nHPenO/b8j3bsMtN/bnsqlWOBK7OxB/Y4=
 github.com/AmazingRise/hugo-theme-diary v0.0.0-20220514162917-d8121f097d8f h1:Xqag5gMj9LHPjrBo1qjVs9QrRRofFZo3qBvHdzN6sKs=
 github.com/AmazingRise/hugo-theme-diary v0.0.0-20220514162917-d8121f097d8f/go.mod h1:jFlSWwFHa+nHPenO/b8j3bsMtN/bnsqlWOBK7OxB/Y4=
+github.com/AmazingRise/hugo-theme-diary v0.0.0-20220701144319-bc2908bd710e h1:P4sbcMiZo1/Khy8Fe0FM3Xr/upCJ/mGnsoOsv0uinEc=
+github.com/AmazingRise/hugo-theme-diary v0.0.0-20220701144319-bc2908bd710e/go.mod h1:jFlSWwFHa+nHPenO/b8j3bsMtN/bnsqlWOBK7OxB/Y4=
 github.com/AngeloStavrow/indigo v1.4.0 h1:dUfFdfUTAQBY8xgSxMggVDTUw/pBqkwj3NwaSrA+SB8=
 github.com/AngeloStavrow/indigo v1.4.0/go.mod h1:/lLJUSIgrGv0Lquk5rapiDz/bzd8q8TISNCX/jfOHJk=
 github.com/CaiJimmy/hugo-theme-stack v3.6.0+incompatible h1:w1/yw9B3BdzfzIJOGXd6Z1EyY/jkdLwODAhEBy91DLI=
@@ -155,6 +157,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20220624061134-e09d84f820e9 h1:2d6
 github.com/McShelby/hugo-theme-relearn v0.0.0-20220624061134-e09d84f820e9/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20220625232844-2b032a3e2dd9 h1:w9Do9Pa7KwTqP0BMHvTvfSIAaeUc3YaMmVjMyz8DorE=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20220625232844-2b032a3e2dd9/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20220703152214-d071d2d2a3d6 h1:Yxbqbyb5Fw9BLwfrXCCm26wiA5RpdQpoYWtQogKTSkY=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20220703152214-d071d2d2a3d6/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -663,6 +667,8 @@ github.com/gcushen/hugo-academic v4.8.0+incompatible h1:w4M2vcHxD3g1Gy4JewavIAfv
 github.com/gcushen/hugo-academic v4.8.0+incompatible/go.mod h1:jt+VdmsUBI4m1ccfS/ZDwqnfwUbHX9uEPi2m1rCK0cI=
 github.com/geschke/hugo-tikva v0.3.1 h1:t9zm0KP269CEIvwR20T9a05tgY810nscR1vbE52UBnk=
 github.com/geschke/hugo-tikva v0.3.1/go.mod h1:uyLlqou/h8TZCWYzcYl5s6maXeHIPemylIVyzk/XlEc=
+github.com/geschke/hugo-tikva v0.3.2 h1:SmRRfaTB8G1Wi45qArmfGP/gdld0Ca8cYkvWLGVPcYk=
+github.com/geschke/hugo-tikva v0.3.2/go.mod h1:uyLlqou/h8TZCWYzcYl5s6maXeHIPemylIVyzk/XlEc=
 github.com/gesquive/slate v1.1.1 h1:g9Bg4Mu7NDkdsoPPlTiDBg99gXlySyoH0tHyEf4vvrI=
 github.com/gesquive/slate v1.1.1/go.mod h1:yYFEnRMwAYAotLCa//qCLrbOpPG1bq0uag2XSSP+BAQ=
 github.com/gethugothemes/andromeda-light v0.0.0-20220123094320-fe4253655b99 h1:fKKwRMJXzO34iSby1UXKuE7kOxhpbrNTsNAcDpS+oRE=
@@ -727,6 +733,7 @@ github.com/google/docsy v0.4.0 h1:Eyt2aiDC1fnw/Qq/9xnIqUU5n5Yyk4c8gX3nBDdTv/4=
 github.com/google/docsy v0.4.0/go.mod h1:vJjGkHNaw9bO42gpFTWwAUzHZWZEVlK46Kx7ikY5c7Y=
 github.com/google/docsy/dependencies v0.2.0/go.mod h1:2zZxHF+2qvkyXhLZtsbnqMotxMukJXLaf8fAZER48oo=
 github.com/google/docsy/dependencies v0.3.0/go.mod h1:2zZxHF+2qvkyXhLZtsbnqMotxMukJXLaf8fAZER48oo=
+github.com/google/docsy/dependencies v0.4.0/go.mod h1:2zZxHF+2qvkyXhLZtsbnqMotxMukJXLaf8fAZER48oo=
 github.com/guangmean/Niello v0.0.0-20191029090447-5b18ef951464 h1:MQwV8QrzZp1sSjVIwgULxDFhMgPJt9ZmxqdDpQGuoMM=
 github.com/guangmean/Niello v0.0.0-20191029090447-5b18ef951464/go.mod h1:tWL/X0kRXdp678SELP/Xok8SwM8W6arlXTlfFfMVdqs=
 github.com/guangmean/Niello v1.1.1 h1:u+dc4fBpjiyxE6NVQZ8iAEnaUhpdkircwm6qSLVSNe0=
@@ -897,6 +904,8 @@ github.com/jgazeau/shadocs v0.0.0-20220619004213-19d424895e4a h1:fyvP3gErC5IghFC
 github.com/jgazeau/shadocs v0.0.0-20220619004213-19d424895e4a/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
 github.com/jgazeau/shadocs v0.0.0-20220620213316-6aa7754b4c85 h1:8MTp0Ghb9o5afr/GhUfe7dIKApVucEmiAU3pmZhYs3A=
 github.com/jgazeau/shadocs v0.0.0-20220620213316-6aa7754b4c85/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
+github.com/jgazeau/shadocs v0.0.0-20220701071739-52c2730b2d80 h1:8X2Ov+4AAmn75IpjnkhDfk8M1qqrrE4zUyiGZ87ySxA=
+github.com/jgazeau/shadocs v0.0.0-20220701071739-52c2730b2d80/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
 github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c h1:f/eReCP+1UTv2hfZBcDBn53opChkNqAMFxhxjUilBIo=
 github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c/go.mod h1:D1zakjaP6nB32NDhNZQPWIue7Zc/E4oMMIDsCxwclk0=
 github.com/jmablog/hugo-clinic-notes v0.0.0-20210111134623-7f5a64696c35 h1:YsYPlj5FWkr3Ncg+gDe7umeQoEvpdvBNlLOD7erXXX4=
@@ -1369,6 +1378,8 @@ github.com/razonyang/hugo-theme-bootstrap v0.80.2 h1:Um5wjPLzg10jnkfKF3NQ5Jn4SgS
 github.com/razonyang/hugo-theme-bootstrap v0.80.2/go.mod h1:o+IIPL/5wreiTojnN4MsQqKuxbv3fWAQnMhG9geltQo=
 github.com/reuixiy/hugo-theme-meme v4.5.0+incompatible h1:H6kvEt99bZaQe9MD+M7n9B36/j8Tkr06gvzaQ7kDgys=
 github.com/reuixiy/hugo-theme-meme v4.5.0+incompatible/go.mod h1:t+xPvEmNNin6n1dGhQagjz1hCUIAgxGobMvbQfICAW4=
+github.com/reuixiy/hugo-theme-meme v5.0.0+incompatible h1:S/aBbLHQTcsLXQrh0xf/vUN1gdsgApFE74JZBtVfZtY=
+github.com/reuixiy/hugo-theme-meme v5.0.0+incompatible/go.mod h1:t+xPvEmNNin6n1dGhQagjz1hCUIAgxGobMvbQfICAW4=
 github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20211015211725-848b6879b3a2 h1:eIY0out4Uxrupsbx9nw2FwFxxXui+XEIdATxbTOJ+As=
 github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20211015211725-848b6879b3a2/go.mod h1:qzfSzxZEtVIkUEYnXdJV8PmJZMTSSZkfek5uhxFdpHA=
 github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20220204220239-fff3cc7bcd46 h1:LeBVmH9bQFedHjHVr02w/CBTVqQAtAqu3ILsevJFVV8=
