@@ -32,9 +32,9 @@ require (
 	github.com/McShelby/hugo-theme-relearn v0.0.0-20220913212013-45875d5e7392 // indirect
 	github.com/MeiK2333/github-style v0.0.0-20220627083615-d668de73d425 // indirect
 	github.com/Mitrichius/hugo-theme-anubis v0.0.0-20220725170731-d4ba47cd2196 // indirect
-	github.com/MunifTanjim/minimo v2.9.0+incompatible // indirect
+	github.com/MunifTanjim/minimo v2.10.0+incompatible // indirect
 	github.com/NormandErwan/Blogpaper v1.0.4 // indirect
-	github.com/PippoRJ/hugo-refresh v0.0.0-20220427182902-359b866d4337 // indirect
+	github.com/PippoRJ/hugo-refresh v0.0.0-20220917182555-8626dd99ff07 // indirect
 	github.com/RCJacH/hugo-webslides v0.0.0-20220223154806-86ef38925f97 // indirect
 	github.com/RainerChiang/simpleness v0.0.0-20220413113517-9da74fc7bfb1 // indirect
 	github.com/RealOrangeOne/hugo-theme-revealjs v0.0.0-20180107112825-3edd529faa71 // indirect
@@ -184,8 +184,8 @@ require (
 	github.com/jaden/twentyfourteen v0.0.0-20191130221218-9380d3fa1855 // indirect
 	github.com/jakewies/hugo-theme-codex v1.6.0 // indirect
 	github.com/janraasch/hugo-bearblog v0.0.0-20220915020445-90982df8c92d // indirect
-	github.com/janraasch/hugo-product-launch v0.0.0-20220328072729-96de37794687 // indirect
-	github.com/janraasch/hugo-scroll v0.0.0-20220325153741-1d92c6b79b97 // indirect
+	github.com/janraasch/hugo-product-launch v0.0.0-20220916143024-dcba9911b387 // indirect
+	github.com/janraasch/hugo-scroll v0.0.0-20220916144430-989db1748409 // indirect
 	github.com/jbub/ghostwriter v0.6.0 // indirect
 	github.com/jeblister/bulma v0.0.0-20220331084658-8d25840df6ac // indirect
 	github.com/jeremybise/twentynineteen-hugo v0.0.0-20191008161335-7c0a63e24114 // indirect
@@ -268,7 +268,7 @@ require (
 	github.com/onweru/compose v0.0.0-20220613192136-823b5de743db // indirect
 	github.com/onweru/hugo-swift-theme v2.0.0+incompatible // indirect
 	github.com/onweru/newsroom v0.0.0-20220114000312-a46aedf8f0c5 // indirect
-	github.com/opera7133/Blonde v0.0.0-20220906124421-18d020406d77 // indirect
+	github.com/opera7133/Blonde v0.0.0-20220918075631-4908a16a5ec6 // indirect
 	github.com/opera7133/tella v0.0.0-20220905022456-c3b89aea4be6 // indirect
 	github.com/orf/bare-hugo-theme v0.0.0-20220915220623-1255571b051c // indirect
 	github.com/pacollins/hugo-future-imperfect-slim v0.0.0-20211105151804-67dfc625a77b // indirect
@@ -379,7 +379,7 @@ require (
 	github.com/wayjam/hugo-theme-mixedpaper v0.0.0-20200816131211-367945f7d7c0 // indirect
 	github.com/wd/hugo-fabric v0.0.0-20191202002427-c416adb14920 // indirect
 	github.com/wileybaba/hugo-theme-robotico v0.0.0-20190128025338-a1e633362eee // indirect
-	github.com/wlh320/hugo-theme-hulga v0.0.0-20220914162152-84a7aca340d3 // indirect
+	github.com/wlh320/hugo-theme-hulga v0.0.0-20220918153437-b2b957e07587 // indirect
 	github.com/wowchemy/starter-academic v0.0.0-20210724213830-2c4ed1aed784 // indirect
 	github.com/wtoll/venture v0.1.0 // indirect
 	github.com/xaprb/story v0.0.0-20220322144912-046bf4f12e69 // indirect
