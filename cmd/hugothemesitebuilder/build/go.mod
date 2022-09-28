@@ -159,7 +159,7 @@ require (
 	github.com/google/docsy v0.4.0 // indirect
 	github.com/guangmean/Niello v1.1.1 // indirect
 	github.com/gundamew/hugo-bingo v1.8.2 // indirect
-	github.com/gurusabarish/hugo-profile v0.0.0-20220910062622-a0b3ff5ff657 // indirect
+	github.com/gurusabarish/hugo-profile v0.0.0-20220927182633-143b5f6fb3e0 // indirect
 	github.com/gyorb/hugo-dusk v1.0.1 // indirect
 	github.com/h-enk/doks v0.5.0 // indirect
 	github.com/hadisinaee/avicenna v0.0.0-20210802003840-1412ad1b941f // indirect
@@ -190,12 +190,12 @@ require (
 	github.com/jeblister/bulma v0.0.0-20220331084658-8d25840df6ac // indirect
 	github.com/jeremybise/twentynineteen-hugo v0.0.0-20191008161335-7c0a63e24114 // indirect
 	github.com/jesselau76/hugo-w3-simple v0.0.0-20220609000310-88c02cc42a3a // indirect
-	github.com/jgazeau/shadocs v0.0.0-20220920215500-026c097a887f // indirect
+	github.com/jgazeau/shadocs v0.0.0-20220926190937-c0c63c0f665e // indirect
 	github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c // indirect
 	github.com/jmablog/hugo-clinic-notes v0.0.0-20210111134623-7f5a64696c35 // indirect
 	github.com/jmau111/hugo-theme-ava v0.0.0-20220721203806-e567834f64bb // indirect
-	github.com/jnjosh/internet-weblog v0.0.0-20191202203724-32ef8e0ba6b6 // indirect
-	github.com/joeroe/risotto v0.0.0-20220908093158-82b63460c301 // indirect
+	github.com/jnjosh/internet-weblog v0.0.0-20220927013200-da43214a5429 // indirect
+	github.com/joeroe/risotto v0.1.0 // indirect
 	github.com/jonathanjanssens/hugo-casper3 v1.0.1 // indirect
 	github.com/josephhutch/aether v0.0.0-20220304034235-d1c9ab6527b0 // indirect
 	github.com/joway/hugo-theme-yinyang v0.0.0-20220428055119-1c3bec670a42 // indirect
@@ -360,7 +360,7 @@ require (
 	github.com/tohn/linkshrubbery v0.0.0-20210808062236-547531a6039e // indirect
 	github.com/tosi29/inkblotty v0.0.0-20210329142630-603eab433785 // indirect
 	github.com/tummychow/lanyon-hugo v0.0.0-20210123043723-cd7b91420a90 // indirect
-	github.com/tylerjlawson/port-hugo v0.0.0-20210802214914-0c7e5825b176 // indirect
+	github.com/tylerjlawson/port-hugo v0.0.0-20220927001103-4c4a5023cc37 // indirect
 	github.com/tylerjlawson/simple-resume v0.0.0-20211026182531-a6bbdc145e1b // indirect
 	github.com/tylerjlawson/simple-snipcart-shop v0.0.0-20220323145220-3d18970a8c9a // indirect
 	github.com/uPagge/uBlogger v1.2.0 // indirect
