@@ -34,6 +34,8 @@ github.com/526avijitgupta/gokarna v0.0.0-20220830135955-d79ff6cc8388 h1:DWXvTLM4
 github.com/526avijitgupta/gokarna v0.0.0-20220830135955-d79ff6cc8388/go.mod h1:v34Pn8p/EFQ1WnVF43/Vis+6u+vdB795sYEGshBHFSs=
 github.com/526avijitgupta/gokarna v0.0.0-20221005033931-c22143c3c958 h1:wnjGWp7Nlm+GNlXyMq1eK0+4xA/3DwDln/1UFc9TLOU=
 github.com/526avijitgupta/gokarna v0.0.0-20221005033931-c22143c3c958/go.mod h1:v34Pn8p/EFQ1WnVF43/Vis+6u+vdB795sYEGshBHFSs=
+github.com/526avijitgupta/gokarna v0.0.0-20221010051104-751f4dc9c985 h1:D0wJyMwdU9WDRhKakTlkPSls+EtHDDWiCr+jCZpnzrU=
+github.com/526avijitgupta/gokarna v0.0.0-20221010051104-751f4dc9c985/go.mod h1:v34Pn8p/EFQ1WnVF43/Vis+6u+vdB795sYEGshBHFSs=
 github.com/7ma7X/HugoTeX v0.0.0-20210820063836-8f69b7abef4f h1:JVmH/fJGhp3EV4waAAcC15wd44sxQIbtrDBJ9W4QDnE=
 github.com/7ma7X/HugoTeX v0.0.0-20210820063836-8f69b7abef4f/go.mod h1:OTLKv02XnopNEckzZ8Ttg/NjueJWWLrzJzeVHGm/6lo=
 github.com/7ma7X/HugoTeX v0.0.0-20220213111535-a447eb948a7b h1:mXmuSqs5AFRbrZbhNpA3OsCBtPVlI4il8Y79SZEr5E4=
@@ -1344,6 +1346,8 @@ github.com/luizdepra/hugo-coder v0.0.0-20220902184613-476429d42ac1 h1:FQBpsVurGO
 github.com/luizdepra/hugo-coder v0.0.0-20220902184613-476429d42ac1/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
 github.com/luizdepra/hugo-coder v0.0.0-20220906130814-5e56c8c11505 h1:9dom4utU9UCbqyDQtnx/WRD2GjxQkS7j1mecf/dGjDk=
 github.com/luizdepra/hugo-coder v0.0.0-20220906130814-5e56c8c11505/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
+github.com/luizdepra/hugo-coder v0.0.0-20221011124307-a98c473a2669 h1:iMp23f3IGq/G389DzTnAXNKVAl825AIVIqfKvs+U87Y=
+github.com/luizdepra/hugo-coder v0.0.0-20221011124307-a98c473a2669/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
 github.com/lxndrblz/anatole v1.5.0 h1:ERhfTSN9bAqQ0Vo6jBf07kreggqVo/4kDwFiTPZFI0I=
 github.com/lxndrblz/anatole v1.5.0/go.mod h1:tY4xW0M9eqGqZD+cRTUPfe/zJHQk/Wmi4K+7Dh81Pqg=
 github.com/lxndrblz/anatole v1.6.0 h1:txlQUrCEn7wjAoDbkjtbNlqE8D/k0Im+rk3XCQCH9KM=
@@ -1488,6 +1492,8 @@ github.com/ojroques/hugo-researcher v0.0.0-20220910212428-cd2233558f3a h1:TyOACo
 github.com/ojroques/hugo-researcher v0.0.0-20220910212428-cd2233558f3a/go.mod h1:43it/BQ6c3voq9dVuur8TbyVB6nxU3Dy8IxrQn9JuE0=
 github.com/ojroques/hugo-researcher v0.0.0-20221003153656-bd335ad38c46 h1:UKWRaN9SfxwyJZkldKLwI0EKN2kH8bpJUp427y5MoBk=
 github.com/ojroques/hugo-researcher v0.0.0-20221003153656-bd335ad38c46/go.mod h1:43it/BQ6c3voq9dVuur8TbyVB6nxU3Dy8IxrQn9JuE0=
+github.com/ojroques/hugo-researcher v0.0.0-20221010075341-97eea889a8ef h1:1OJCHDAhO/Up+hnBvd4hAVJRIEoADFfjr675wLrO8kk=
+github.com/ojroques/hugo-researcher v0.0.0-20221010075341-97eea889a8ef/go.mod h1:43it/BQ6c3voq9dVuur8TbyVB6nxU3Dy8IxrQn9JuE0=
 github.com/okkur/syna v0.17.4 h1:yjaij6V6gNftNDMTVxAwPBRb0B1LiZgxW3x6pqd/Nys=
 github.com/okkur/syna v0.17.4/go.mod h1:cNe2KzYuuFyTGHhK7y3OzaSjWE1YIbp91jgMetkAGbI=
 github.com/olOwOlo/hugo-theme-even v4.1.0+incompatible h1:vac90+azWrNgGvanS7mN2ztvJl9P5IHFvPSS+EAbYRA=
@@ -2348,6 +2354,8 @@ github.com/zhaohuabing/hugo-theme-cleanwhite v0.0.0-20220820084105-ac188d67d1e8 
 github.com/zhaohuabing/hugo-theme-cleanwhite v0.0.0-20220820084105-ac188d67d1e8/go.mod h1:7w+SNXU8/rQ2S3nYfeS3kk9dmtPmb64kGc87N/IQo+Q=
 github.com/zhaohuabing/hugo-theme-cleanwhite v0.0.0-20220923053712-594edcb3d093 h1:wtZ5c0DBk3pFbBtYsPBQVEzw+X7QfJsvnew9fIkgxjM=
 github.com/zhaohuabing/hugo-theme-cleanwhite v0.0.0-20220923053712-594edcb3d093/go.mod h1:7w+SNXU8/rQ2S3nYfeS3kk9dmtPmb64kGc87N/IQo+Q=
+github.com/zhaohuabing/hugo-theme-cleanwhite v0.0.0-20221010112451-706f0b60f700 h1:gPxQvotp58wyOxXM0Fa1iEfqPEXed66xoMFCMiLY2gw=
+github.com/zhaohuabing/hugo-theme-cleanwhite v0.0.0-20221010112451-706f0b60f700/go.mod h1:7w+SNXU8/rQ2S3nYfeS3kk9dmtPmb64kGc87N/IQo+Q=
 github.com/zhe/hugo-theme-slim v0.0.0-20190920014445-f666effe196a h1:bXNuJQNpXUz0Vgi1OjTCwbkvAXjQ3S1gYEfl+W6PidM=
 github.com/zhe/hugo-theme-slim v0.0.0-20190920014445-f666effe196a/go.mod h1:srqDDUYym3e6mlFIk2sRIQw8Vtz3+9n5DSNm5LlbTFU=
 github.com/zwbetz-gh/cayman-hugo-theme v0.0.0-20210525185112-00e0828a4781 h1:X8vdN83u/DtvDkHjBrwIWq/SvGOVKpFHzvF5EnYL69M=
