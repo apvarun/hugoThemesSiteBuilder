@@ -129,6 +129,8 @@ github.com/LukasJoswiak/etch v0.0.0-20220327235953-1969ea26457a h1:MRphI0rxbDkWL
 github.com/LukasJoswiak/etch v0.0.0-20220327235953-1969ea26457a/go.mod h1:tdCjHyDbi/JUH+PwT7EuRAoTu1tIrDvTQgZ5UJLNe7Q=
 github.com/LukasJoswiak/etch v0.0.0-20221006051750-0a8754ea1154 h1:7ZIA3Q3JscY4Ci3Wa/GV85NXINlAtulHgvXlK1dosC8=
 github.com/LukasJoswiak/etch v0.0.0-20221006051750-0a8754ea1154/go.mod h1:tdCjHyDbi/JUH+PwT7EuRAoTu1tIrDvTQgZ5UJLNe7Q=
+github.com/LukasJoswiak/etch v0.0.0-20221013042144-3286754ceb4e h1:jqtIPgKKdLwiwNtmvZqlSJGjwa1lZphDap7p0H+Y0ic=
+github.com/LukasJoswiak/etch v0.0.0-20221013042144-3286754ceb4e/go.mod h1:tdCjHyDbi/JUH+PwT7EuRAoTu1tIrDvTQgZ5UJLNe7Q=
 github.com/MarcusVirg/forty v0.0.0-20190430033326-dccea57bd2ed h1:LjHYgmJraTUExON/Cg7aFSnI2kWo3zYPOMAzO2cd96Q=
 github.com/MarcusVirg/forty v0.0.0-20190430033326-dccea57bd2ed/go.mod h1:afK3GTGd/UIXHIDgpmy8MgyNo0V6yNSBozZMUyqVhj4=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20211126095728-3fbf06aabd08 h1:K2DkSQkFeh372AAAnD9+M9nXhh14jKLPQMMDkxpHAnc=
@@ -685,6 +687,8 @@ github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20200613131832-7
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20200613131832-799d357fc0ce/go.mod h1:0a/oQRj3jcQZPQpCBmBuCGl0AwuexHeX8mKKWw4zb1A=
 github.com/de-souza/hugo-flex v0.0.0-20210311110027-e757432018f7 h1:V4hsblkTKudrsK2o62dOQv2V23kn2CTG5POamD8YsTw=
 github.com/de-souza/hugo-flex v0.0.0-20210311110027-e757432018f7/go.mod h1:XAyp0wkF5CZ3IX2uFMPZOyAuVI3GY7kKDUiJGk4UD6w=
+github.com/de-souza/hugo-flex v0.0.0-20221014001556-aff7b7aadb62 h1:9czFlJoXMOBCXueJTrndAkEO8TYDQkYGlBDl4EkcP2E=
+github.com/de-souza/hugo-flex v0.0.0-20221014001556-aff7b7aadb62/go.mod h1:XAyp0wkF5CZ3IX2uFMPZOyAuVI3GY7kKDUiJGk4UD6w=
 github.com/devcows/hugo-universal-theme v0.0.0-20211228155107-8c16b42b2429 h1:rTy8v3wrgG25D6e+jlt5Uq1wrI2bUPkSXb9kL5OAWpw=
 github.com/devcows/hugo-universal-theme v0.0.0-20211228155107-8c16b42b2429/go.mod h1:MqYH15Evmut/wgYkFi7ArsX+k44HfRrH675FbVLBkq0=
 github.com/devcows/hugo-universal-theme v0.0.0-20220125223223-f3a7e92a67d6 h1:JHvUbfjCxnNYCxdQonDi4jAFQOV9rEK12l87IsJ8NF0=
@@ -1063,6 +1067,8 @@ github.com/janraasch/hugo-product-launch v0.0.0-20220328072729-96de37794687 h1:a
 github.com/janraasch/hugo-product-launch v0.0.0-20220328072729-96de37794687/go.mod h1:DYGoWCCYzs3jkt2qI3jr1uERxfenN+BVyQVLWci1YzA=
 github.com/janraasch/hugo-product-launch v0.0.0-20220916143024-dcba9911b387 h1:N0okWgg2KV4sJ2XFT3jAn9r669nmQq7t6VbOIwwUqco=
 github.com/janraasch/hugo-product-launch v0.0.0-20220916143024-dcba9911b387/go.mod h1:DYGoWCCYzs3jkt2qI3jr1uERxfenN+BVyQVLWci1YzA=
+github.com/janraasch/hugo-product-launch v0.0.0-20221014070944-82f1a1811b1c h1:FrVflQqYLikn7RW3s6OFuqf7ypr0rdzsiMWRRoy4Suc=
+github.com/janraasch/hugo-product-launch v0.0.0-20221014070944-82f1a1811b1c/go.mod h1:DYGoWCCYzs3jkt2qI3jr1uERxfenN+BVyQVLWci1YzA=
 github.com/janraasch/hugo-scroll v0.0.0-20211207162538-3791fec0d1ad h1:mloPDxovhTRz0BzuZfMH50QgeoKHFlcA7YLZPIwT7h0=
 github.com/janraasch/hugo-scroll v0.0.0-20211207162538-3791fec0d1ad/go.mod h1:/b1C6fsYSDjAAglN9TLPkA8ojhg8e2wkfLwyzpOe0UM=
 github.com/janraasch/hugo-scroll v0.0.0-20220203113211-81d29af50516 h1:R+Y6+nb5vDQDZOXetU4lwU5Zr8tleG/+tY6jn+yhRSQ=
@@ -1153,6 +1159,8 @@ github.com/jgazeau/shadocs v0.0.0-20220920215500-026c097a887f h1:zNK4kXhcfn28R3+
 github.com/jgazeau/shadocs v0.0.0-20220920215500-026c097a887f/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
 github.com/jgazeau/shadocs v0.0.0-20220926190937-c0c63c0f665e h1:e9MLXkt50YvN1CYHnAD33kpfd0OzFSDaDgJek6pQNY8=
 github.com/jgazeau/shadocs v0.0.0-20220926190937-c0c63c0f665e/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
+github.com/jgazeau/shadocs v0.0.0-20221012221453-8cd8db174c01 h1:1E9NVU4yQG0tXKoQkli+7J25qzCDga/R43LWeyhc4xE=
+github.com/jgazeau/shadocs v0.0.0-20221012221453-8cd8db174c01/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
 github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c h1:f/eReCP+1UTv2hfZBcDBn53opChkNqAMFxhxjUilBIo=
 github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c/go.mod h1:D1zakjaP6nB32NDhNZQPWIue7Zc/E4oMMIDsCxwclk0=
 github.com/jmablog/hugo-clinic-notes v0.0.0-20210111134623-7f5a64696c35 h1:YsYPlj5FWkr3Ncg+gDe7umeQoEvpdvBNlLOD7erXXX4=
