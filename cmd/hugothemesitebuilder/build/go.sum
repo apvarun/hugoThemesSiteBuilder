@@ -226,6 +226,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20221009113906-114e97f1f937 h1:KW1
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221009113906-114e97f1f937/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221101011005-c8fc9b74eae9 h1:1YqP721uzLKs55ucaqGNBzqhSg2Jyuc3xxingrdAUuw=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221101011005-c8fc9b74eae9/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221101233334-6175963a3df3 h1:49aUOPmSqqyVDDY0oYL6HcLI2g2xAmhffenj867WV2w=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221101233334-6175963a3df3/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -470,6 +472,8 @@ github.com/alex-shpak/hugo-book v0.0.0-20220802105740-317ccae23b73 h1:RC76uULXrG
 github.com/alex-shpak/hugo-book v0.0.0-20220802105740-317ccae23b73/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/alex-shpak/hugo-book v0.0.0-20221005080103-6090fddebdf7 h1:cI6FUoT7ktqGf/WhGj0gWMXfHcQJhWKzxDWFB/0nH7A=
 github.com/alex-shpak/hugo-book v0.0.0-20221005080103-6090fddebdf7/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
+github.com/alex-shpak/hugo-book v0.0.0-20221102232815-3d2bfec18602 h1:rHEjVUcsRSu+gvJyLH/Eys+QOpDft1hbm10nmR3gpuc=
+github.com/alex-shpak/hugo-book v0.0.0-20221102232815-3d2bfec18602/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/alexandrevicenzi/soho v1.1.0 h1:vXAEpvWPa8qo9JbZNyFHwr6/MDadZpslo1+GBn+c6kU=
 github.com/alexandrevicenzi/soho v1.1.0/go.mod h1:OJk59xwtMsfVCt+dVL3rOqXj9HW7ThJYP6rCULyx9Jw=
 github.com/allnightgrocery/hugo-theme-blueberry-detox v0.0.0-20170129010546-afb1e630023b h1:j5i97UWknyQQPhzwwixeNsxLDHSfyV+Ids/p9JLeDqk=
@@ -1207,6 +1211,8 @@ github.com/jgazeau/shadocs v0.0.0-20221018063050-aa635aede9f9 h1:aPivMbiZ/sdUxFB
 github.com/jgazeau/shadocs v0.0.0-20221018063050-aa635aede9f9/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
 github.com/jgazeau/shadocs v0.0.0-20221025200421-051a6a28fdf5 h1:HbRE3sss5mKGkowq67MxwbNQTGGUr3qYpZ0VChnLp+4=
 github.com/jgazeau/shadocs v0.0.0-20221025200421-051a6a28fdf5/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
+github.com/jgazeau/shadocs v0.0.0-20221103235222-7e78a74847f1 h1:c9w+qiB4mDZgxUWPen7hqsulBK1LeW6ZjQInkHPkNWE=
+github.com/jgazeau/shadocs v0.0.0-20221103235222-7e78a74847f1/go.mod h1:lh2LpFEzd7eZ51bssSV8bKZh6pJCtWJhjs7aDBQ5sws=
 github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c h1:f/eReCP+1UTv2hfZBcDBn53opChkNqAMFxhxjUilBIo=
 github.com/jimfrenette/hugo-starter v0.0.0-20210805024343-ed81461deb5c/go.mod h1:D1zakjaP6nB32NDhNZQPWIue7Zc/E4oMMIDsCxwclk0=
 github.com/jmablog/hugo-clinic-notes v0.0.0-20210111134623-7f5a64696c35 h1:YsYPlj5FWkr3Ncg+gDe7umeQoEvpdvBNlLOD7erXXX4=
@@ -1460,6 +1466,8 @@ github.com/michimani/simplog v0.0.0-20210813031533-fdc9d9f2b996 h1:8oLPWXAfIlYom
 github.com/michimani/simplog v0.0.0-20210813031533-fdc9d9f2b996/go.mod h1:OYyHKMrmwd5vJiBDtonXmATXJG1rydhPvB0vmaclVPc=
 github.com/michimani/simplog v0.0.0-20220210143349-c6940745f5b0 h1:oylvoFwwTuhqnxjbtl+sXkXqRAfoJy/5o0jH+1+KlfM=
 github.com/michimani/simplog v0.0.0-20220210143349-c6940745f5b0/go.mod h1:OYyHKMrmwd5vJiBDtonXmATXJG1rydhPvB0vmaclVPc=
+github.com/michimani/simplog v0.0.0-20221102145248-69e10b5f81be h1:mvffr2MLdprHws4QVEKLIdyiiDVu+C3LrzMTO2pdp18=
+github.com/michimani/simplog v0.0.0-20221102145248-69e10b5f81be/go.mod h1:OYyHKMrmwd5vJiBDtonXmATXJG1rydhPvB0vmaclVPc=
 github.com/miguelsimoni/hugo-initio v0.0.0-20210726153923-9f82e51e6ab0 h1:oC847gzlyGTNv3yKQzhCedIN7UvYKnopNlgj2sFJbTE=
 github.com/miguelsimoni/hugo-initio v0.0.0-20210726153923-9f82e51e6ab0/go.mod h1:KBCk/6VF3tsQ8qGIJqNNxyZkTyDluE/WzvhAPoet/FY=
 github.com/mikeblum/hugo-now v0.2.0 h1:AeQ9yiS9hqAI79hbfOankN9nujl1hayCpxrG7gVIJ0A=
@@ -2108,6 +2116,8 @@ github.com/thegeeklab/hugo-geekdoc v0.35.7 h1:rqRXX0a+rCF/E6dm3lEOq90jNCBDWu8FBf
 github.com/thegeeklab/hugo-geekdoc v0.35.7/go.mod h1:XEAtAuJ3nRMshRupMW1xPZ7EVMleS87rmr+RklRamRY=
 github.com/thegeeklab/hugo-geekdoc v0.35.8 h1:7Cql5npjXXCu7XQrPeyVgeIE+CiXWTJvI/bvkoIDBm0=
 github.com/thegeeklab/hugo-geekdoc v0.35.8/go.mod h1:XEAtAuJ3nRMshRupMW1xPZ7EVMleS87rmr+RklRamRY=
+github.com/thegeeklab/hugo-geekdoc v0.36.0 h1:shOKfz62I3K4OeE2bgblgqOtai971hfQZzqREd6KIXk=
+github.com/thegeeklab/hugo-geekdoc v0.36.0/go.mod h1:XEAtAuJ3nRMshRupMW1xPZ7EVMleS87rmr+RklRamRY=
 github.com/themefisher/Academia-hugo v1.0.0 h1:+o90I/EdF6zipv2Ho4HpPj2HwSJjDiF4N4+koIcaMEc=
 github.com/themefisher/Academia-hugo v1.0.0/go.mod h1:pSD2qE8UzIx1W9d4kVg4lhc/wnezlJtcT1s+OXUm/i8=
 github.com/themefisher/Hargo-hugo-ecommerce-theme v0.0.0-20211031042413-d6ba683450bb h1:jwaeWV3uepONb2RWFArE9VwZO6akj1sp8GEU1/LKY1E=
@@ -2360,6 +2370,8 @@ github.com/vaga/hugo-theme-m10c v0.0.0-20210308142629-3094e3f118f9 h1:z1ZnexHTtn
 github.com/vaga/hugo-theme-m10c v0.0.0-20210308142629-3094e3f118f9/go.mod h1:3196jMGTXhINTYZ+dXuDt53xvUQovqOj67kuczeXsjU=
 github.com/vaga/hugo-theme-m10c v0.0.0-20221006185409-bd6e4228fdae h1:9QDoWG9WxK0Qx9d8pFQKN4kncos1M7BLZngqVC/SSBU=
 github.com/vaga/hugo-theme-m10c v0.0.0-20221006185409-bd6e4228fdae/go.mod h1:3196jMGTXhINTYZ+dXuDt53xvUQovqOj67kuczeXsjU=
+github.com/vaga/hugo-theme-m10c v0.0.0-20221102142521-871d3f204707 h1:ZHI/e6jWHv2ek5rhZ6K9atVTJcPQtB2fx2zpFfD1QUc=
+github.com/vaga/hugo-theme-m10c v0.0.0-20221102142521-871d3f204707/go.mod h1:3196jMGTXhINTYZ+dXuDt53xvUQovqOj67kuczeXsjU=
 github.com/vantagedesign/ace-documentation v0.0.0-20210928094137-10892bc2a6f3 h1:rIi2d+5Njx0J/enT4pbKo9XiQCoRwGPT7qMzEGAeWHw=
 github.com/vantagedesign/ace-documentation v0.0.0-20210928094137-10892bc2a6f3/go.mod h1:n1/9cT4AE/O6b427iAopVOIJUyn46LFk29aDYHo/bTo=
 github.com/victoriadrake/hugo-theme-introduction v5.1.0+incompatible h1:jotsXyvVzKRzFfm33FYfy66wHfyu/UmUmvRQ5YCWvUc=
