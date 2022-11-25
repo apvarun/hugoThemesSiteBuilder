@@ -38,6 +38,8 @@ github.com/526avijitgupta/gokarna v0.0.0-20221010051104-751f4dc9c985 h1:D0wJyMwd
 github.com/526avijitgupta/gokarna v0.0.0-20221010051104-751f4dc9c985/go.mod h1:v34Pn8p/EFQ1WnVF43/Vis+6u+vdB795sYEGshBHFSs=
 github.com/526avijitgupta/gokarna v0.0.0-20221109031126-2ebf2468b1c6 h1:GrH0RcwMsBCPmQTGNN/k9u/X1daYdMkeXUyG35kYjfs=
 github.com/526avijitgupta/gokarna v0.0.0-20221109031126-2ebf2468b1c6/go.mod h1:v34Pn8p/EFQ1WnVF43/Vis+6u+vdB795sYEGshBHFSs=
+github.com/526avijitgupta/gokarna v0.0.0-20221122035018-9e2846155f9a h1:/yo4BgdrwfhP0l2LPAYCxByLUihU6TVzDdYv84eTp0M=
+github.com/526avijitgupta/gokarna v0.0.0-20221122035018-9e2846155f9a/go.mod h1:v34Pn8p/EFQ1WnVF43/Vis+6u+vdB795sYEGshBHFSs=
 github.com/7ma7X/HugoTeX v0.0.0-20210820063836-8f69b7abef4f h1:JVmH/fJGhp3EV4waAAcC15wd44sxQIbtrDBJ9W4QDnE=
 github.com/7ma7X/HugoTeX v0.0.0-20210820063836-8f69b7abef4f/go.mod h1:OTLKv02XnopNEckzZ8Ttg/NjueJWWLrzJzeVHGm/6lo=
 github.com/7ma7X/HugoTeX v0.0.0-20220213111535-a447eb948a7b h1:mXmuSqs5AFRbrZbhNpA3OsCBtPVlI4il8Y79SZEr5E4=
@@ -246,6 +248,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20221118232948-03f638e33a93 h1:L5j
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221118232948-03f638e33a93/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221120220040-8aeb69fa56e8 h1:GW6XDDtjOhaaDLImr4lzVpSpfFVb4Csh3mRST0kGXtw=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221120220040-8aeb69fa56e8/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221124230901-e730c581561e h1:cpddZsLEby7WTWF8ulWJe8ozr3YoDQf3UNnniJLCk+4=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221124230901-e730c581561e/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -388,6 +392,8 @@ github.com/Vimux/mainroad v0.0.0-20220830145010-f77b7f895b80 h1:sOBZZ7mKkr9k/Jkl
 github.com/Vimux/mainroad v0.0.0-20220830145010-f77b7f895b80/go.mod h1:13Sfg07PTbKTuzennbP0eC0Od7pbpfaxVcTQZWKRZeU=
 github.com/Vimux/mainroad v0.0.0-20221118143707-b1d3ae0c1ed8 h1:ZKZH8Mcq2dXSAi7ZUi2wLnZaEUGD2/bqrWmYAq64oNU=
 github.com/Vimux/mainroad v0.0.0-20221118143707-b1d3ae0c1ed8/go.mod h1:13Sfg07PTbKTuzennbP0eC0Od7pbpfaxVcTQZWKRZeU=
+github.com/Vimux/mainroad v0.0.0-20221122174708-1f3f94ba104f h1:1h64o2W4zi/Ie+ap7eq8cYkLhjyig/Ssbxrkw41ZnG0=
+github.com/Vimux/mainroad v0.0.0-20221122174708-1f3f94ba104f/go.mod h1:13Sfg07PTbKTuzennbP0eC0Od7pbpfaxVcTQZWKRZeU=
 github.com/WingLim/hugo-tania v1.9.3 h1:dmxbWDmQMWw/xUdhV1CYtyxYXSbJpeYgJwojDCxnilY=
 github.com/WingLim/hugo-tania v1.9.3/go.mod h1:dlKyBD3QGdzGk50VequqA+PStaePmTPc1qlgZrDZB94=
 github.com/Xzya/hugo-material-blog v0.100.2 h1:DZ5eKIFpp/LkJn++rWwmQiWX44G9EJ2yTXsp5ySdaLA=
