@@ -256,6 +256,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20221127154852-322bf829bcd3 h1:2YC
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221127154852-322bf829bcd3/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221201004420-150e4ce710d6 h1:eahMl6SODIg1aymCPVySxn7oyzfmpy+NveU04Kyb3bw=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221201004420-150e4ce710d6/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221202194453-41582f63f0d2 h1:bKPsUQQ+EcdxVb7eHaYmB/tuRK+RWF9Xi2s3+7WM43M=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221202194453-41582f63f0d2/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -734,6 +736,8 @@ github.com/darshanbaral/aafu v0.0.0-20210312064825-9e832459980f h1:1Y75ONPlFbQIy
 github.com/darshanbaral/aafu v0.0.0-20210312064825-9e832459980f/go.mod h1:WePSsU7ZcxCcntxAb6u93w98piKV4VI/EX6cxHhT/SY=
 github.com/darshanbaral/aafu v0.0.0-20221127203756-a1e5c1f3e4ca h1:Ni4Ut0TI8emkNDQ1yZhMHlJ2lrCVpLLjTR5K0LRS6rk=
 github.com/darshanbaral/aafu v0.0.0-20221127203756-a1e5c1f3e4ca/go.mod h1:WePSsU7ZcxCcntxAb6u93w98piKV4VI/EX6cxHhT/SY=
+github.com/darshanbaral/aafu v0.0.0-20221201030806-ba5d7eef0dee h1:Yh7jjNnuZqMbtpgnGXzfELuNzv3vlu85QaT7M/0R4gc=
+github.com/darshanbaral/aafu v0.0.0-20221201030806-ba5d7eef0dee/go.mod h1:WePSsU7ZcxCcntxAb6u93w98piKV4VI/EX6cxHhT/SY=
 github.com/darshanbaral/ghazal v0.0.0-20200605225401-f110f210c7f7 h1:pEheXktV60bBYgjyNY3iqCUDAqaO5cBXtDn5F86hjOY=
 github.com/darshanbaral/ghazal v0.0.0-20200605225401-f110f210c7f7/go.mod h1:QPk1/Cn190QMZtQxA38I8lm4mRgweMsp/mvZ+AUXlLo=
 github.com/darshanbaral/khata v0.0.0-20200606041340-e7a14d7151be h1:64eC+n/iFdRN5DCE74jwtHAkeErMW8ShowCEiJ8k2zA=
@@ -758,6 +762,8 @@ github.com/dataCobra/hugo-vitae v0.0.0-20220408161841-c55e264e2962 h1:w8BagV/oMg
 github.com/dataCobra/hugo-vitae v0.0.0-20220408161841-c55e264e2962/go.mod h1:VYbjakcPdD3+BBj8DrVY+nu+23weJVpu+5sXRahBCqw=
 github.com/dataCobra/hugo-vitae v0.0.0-20221106191925-a169fe303890 h1:nVlwbbKfgevtMd55c9R/qkYCj1eYsbutDx2YhwpzvEg=
 github.com/dataCobra/hugo-vitae v0.0.0-20221106191925-a169fe303890/go.mod h1:VYbjakcPdD3+BBj8DrVY+nu+23weJVpu+5sXRahBCqw=
+github.com/dataCobra/hugo-vitae v0.0.0-20221202090902-5c598ddc708b h1:6pOyHUbMhUjmOGy9N9y0Eeuev7PHGn+t2YazIAsszpY=
+github.com/dataCobra/hugo-vitae v0.0.0-20221202090902-5c598ddc708b/go.mod h1:VYbjakcPdD3+BBj8DrVY+nu+23weJVpu+5sXRahBCqw=
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20200613131832-799d357fc0ce h1:HimoxbqxdnXF3Y4khlnEcQcBVgVvTzxOJpNWm7BKh1I=
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20200613131832-799d357fc0ce/go.mod h1:0a/oQRj3jcQZPQpCBmBuCGl0AwuexHeX8mKKWw4zb1A=
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20221107102623-e75ab9e72a65 h1:yn4nHUioXUnZhGrqM2hcnlujcxyfxr72sDuYZgKbStU=
@@ -2102,6 +2108,8 @@ github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220907123632-5a8b531a7ce2 
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220907123632-5a8b531a7ce2/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221031153459-b393088d0930 h1:HH3nIivNlAVSYE9dvB0MD/cWunI1FpN6RDS6FziSFcs=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221031153459-b393088d0930/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221202213201-a0c7382c597e h1:PApjc31IYMNPNT7gJ/z1BBrVk6S48lTTt563IUtmp34=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221202213201-a0c7382c597e/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
 github.com/thegeeklab/hugo-geekblog v0.15.1 h1:FbjFZj9YBxNazBZUYQbzW5mc/e71WcFB3bRGKg8sbSI=
 github.com/thegeeklab/hugo-geekblog v0.15.1/go.mod h1:xwX0oPqfUdT2py6Elyo1RJk8mZF3mq7f0N6jAFS3RMk=
 github.com/thegeeklab/hugo-geekblog v0.15.2 h1:oT5sBygVLn83CF4Y2acdXbohbZ0Y8lwvlCKoBRVb5Ak=
