@@ -29,7 +29,7 @@ require (
 	github.com/LordMathis/hugo-theme-nix v0.0.0-20220120091656-084eef29e66f // indirect
 	github.com/LukasJoswiak/etch v0.0.0-20221013042144-3286754ceb4e // indirect
 	github.com/MarcusVirg/forty v0.0.0-20190430033326-dccea57bd2ed // indirect
-	github.com/McShelby/hugo-theme-relearn v0.0.0-20221204222141-622b35e40e94 // indirect
+	github.com/McShelby/hugo-theme-relearn v0.0.0-20221208101849-16f3f0e73d2e // indirect
 	github.com/MeiK2333/github-style v0.0.0-20221030070900-eee158a65892 // indirect
 	github.com/Mitrichius/hugo-theme-anubis v0.0.0-20220725170731-d4ba47cd2196 // indirect
 	github.com/MunifTanjim/minimo v2.10.1+incompatible // indirect
@@ -159,7 +159,7 @@ require (
 	github.com/google/docsy v0.6.0 // indirect
 	github.com/guangmean/Niello v1.1.1 // indirect
 	github.com/gundamew/hugo-bingo v1.8.2 // indirect
-	github.com/gurusabarish/hugo-profile v0.0.0-20221205114152-b783b1b224f0 // indirect
+	github.com/gurusabarish/hugo-profile v0.0.0-20221207185542-5921485a1020 // indirect
 	github.com/gyorb/hugo-dusk v1.0.1 // indirect
 	github.com/h-enk/doks v0.5.0 // indirect
 	github.com/hadisinaee/avicenna v0.0.0-20210802003840-1412ad1b941f // indirect
@@ -171,7 +171,7 @@ require (
 	github.com/hossainemruz/toha v3.7.0+incompatible // indirect
 	github.com/htdvisser/hugo-base16-theme v0.0.0-20210424145429-507fbbfb08f6 // indirect
 	github.com/htr3n/hyde-hyde v2.0.2+incompatible // indirect
-	github.com/humrochagf/colordrop v1.11.0 // indirect
+	github.com/humrochagf/colordrop v1.12.0 // indirect
 	github.com/huyb1991/hugo-lamp v1.2.1 // indirect
 	github.com/iCyris/hugo-theme-yuki v1.1.0 // indirect
 	github.com/ianrodrigues/hugo-tailwind-journal v0.0.0-20191119231934-32cd3a6e65e1 // indirect
@@ -273,7 +273,7 @@ require (
 	github.com/orf/bare-hugo-theme v0.0.0-20221116223309-ecdcdf361ee1 // indirect
 	github.com/pacollins/hugo-future-imperfect-slim v0.0.0-20211105151804-67dfc625a77b // indirect
 	github.com/panr/hugo-theme-hello-friend v0.0.0-20221031072203-384687454417 // indirect
-	github.com/panr/hugo-theme-terminal v0.0.0-20221121074827-007d7f3df65d // indirect
+	github.com/panr/hugo-theme-terminal v0.0.0-20221209145414-1d7e65f42e01 // indirect
 	github.com/parsiya/Hugo-Octopress v0.0.0-20221111221803-b4ee5919d2d7 // indirect
 	github.com/pavel-pi/kiss-em v2.0.0+incompatible // indirect
 	github.com/pdevty/material-design v0.0.0-20160828002125-587b3af7db83 // indirect
