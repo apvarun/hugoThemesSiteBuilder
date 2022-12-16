@@ -264,6 +264,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20221208101849-16f3f0e73d2e h1:0El
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221208101849-16f3f0e73d2e/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221211222148-8cf28e787c82 h1:+Y0kyVxxIKIluD91JNGl8HHI8Y9Qr9Mwz0taYdc3iC8=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221211222148-8cf28e787c82/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221214215548-62960a411396 h1:VV09kmav9wZCxbbJUZdB2Z+ONaokQdc+EOhtdd5Fehs=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221214215548-62960a411396/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -930,6 +932,8 @@ github.com/funkydan2/alpha-church v0.0.0-20221009215339-9aec8e1ba7ea h1:dNADjWvG
 github.com/funkydan2/alpha-church v0.0.0-20221009215339-9aec8e1ba7ea/go.mod h1:OwMMBZA76bnNA4UMfOwV8WJ9UEQ+c+VkI+ubK3y5d5c=
 github.com/funkydan2/alpha-church v0.0.0-20221116214058-12327a8f5c6f h1:ViDkLBrGyzTRv7ZCYkTae3Zl1kme7/8EfLd+b3rLWxk=
 github.com/funkydan2/alpha-church v0.0.0-20221116214058-12327a8f5c6f/go.mod h1:OwMMBZA76bnNA4UMfOwV8WJ9UEQ+c+VkI+ubK3y5d5c=
+github.com/funkydan2/alpha-church v0.0.0-20221214233526-9dc063db788c h1:+DYWmweJc9ITeSD1ckwGjhtXN8qKO+EMGZRBHzEdpww=
+github.com/funkydan2/alpha-church v0.0.0-20221214233526-9dc063db788c/go.mod h1:OwMMBZA76bnNA4UMfOwV8WJ9UEQ+c+VkI+ubK3y5d5c=
 github.com/funkydan2/hugo-kiera v1.1.0 h1:59YvXD+wlVQHmENtsXIUE7vPZnirBLxUOqz6wS21AkY=
 github.com/funkydan2/hugo-kiera v1.1.0/go.mod h1:BbmZeo7pwZ40j9PB9MSEteiGYFAUFoMZZvEU44AycqQ=
 github.com/g1eny0ung/hugo-theme-dream v1.6.0 h1:qnQ3LAMTkrFq4Cs+pdR4H76HQyzEDZ/XpiC3Pmg4nFw=
@@ -1112,6 +1116,8 @@ github.com/gurusabarish/hugo-profile v0.0.0-20221205114152-b783b1b224f0 h1:7HwG+
 github.com/gurusabarish/hugo-profile v0.0.0-20221205114152-b783b1b224f0/go.mod h1:drpVx8hmKaH1c5qiGjGFQ6FU+I1C6ygS/U7AB5nMH44=
 github.com/gurusabarish/hugo-profile v0.0.0-20221207185542-5921485a1020 h1:9YC3JyqrRd5koqAU4wHTH30rQZ06lZEyyoghIXnKzwU=
 github.com/gurusabarish/hugo-profile v0.0.0-20221207185542-5921485a1020/go.mod h1:drpVx8hmKaH1c5qiGjGFQ6FU+I1C6ygS/U7AB5nMH44=
+github.com/gurusabarish/hugo-profile v0.0.0-20221213185539-f411349c20ea h1:PmHDMtw/z6dZKO7ZOuTut8V6IyZdI3NKq2ouEN++yw4=
+github.com/gurusabarish/hugo-profile v0.0.0-20221213185539-f411349c20ea/go.mod h1:drpVx8hmKaH1c5qiGjGFQ6FU+I1C6ygS/U7AB5nMH44=
 github.com/gyorb/hugo-dusk v1.0.1 h1:c0xGXY0UzGWEdpD9khaWWroNjzsgjlyQNGTBdPfsUDw=
 github.com/gyorb/hugo-dusk v1.0.1/go.mod h1:EDbPT5mNiOeB83yEcqUa3bFKSfVSHNJgg3XvynKGwm0=
 github.com/h-enk/doks v0.3.5 h1:p2fh3lJnF7rsYCn4egIshK4a3QDx408cVRh+Hk1PMKM=
@@ -2149,6 +2155,8 @@ github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221031153459-b393088d0930 
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221031153459-b393088d0930/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221202213201-a0c7382c597e h1:PApjc31IYMNPNT7gJ/z1BBrVk6S48lTTt563IUtmp34=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221202213201-a0c7382c597e/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221214160441-315a00623c9f h1:cf7PDZnHEHhrAQqeZrkuJdwU4esXxgq9p84e4KRJZes=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20221214160441-315a00623c9f/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
 github.com/thegeeklab/hugo-geekblog v0.15.1 h1:FbjFZj9YBxNazBZUYQbzW5mc/e71WcFB3bRGKg8sbSI=
 github.com/thegeeklab/hugo-geekblog v0.15.1/go.mod h1:xwX0oPqfUdT2py6Elyo1RJk8mZF3mq7f0N6jAFS3RMk=
 github.com/thegeeklab/hugo-geekblog v0.15.2 h1:oT5sBygVLn83CF4Y2acdXbohbZ0Y8lwvlCKoBRVb5Ak=
