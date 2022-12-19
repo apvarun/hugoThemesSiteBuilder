@@ -266,6 +266,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20221211222148-8cf28e787c82 h1:+Y0
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221211222148-8cf28e787c82/go.mod h1:DJlNSftm/1+M1YSoUQp61lRfOWc8QBBuLdVk7YiV23s=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221214215548-62960a411396 h1:VV09kmav9wZCxbbJUZdB2Z+ONaokQdc+EOhtdd5Fehs=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221214215548-62960a411396/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221216203407-b06050e42021 h1:BBegbcR0iGMDZLYtf4lKeq6qTzBEq02U/H84yQFnzV0=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221216203407-b06050e42021/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -1563,6 +1565,8 @@ github.com/luizdepra/hugo-coder v0.0.0-20221206124133-846fb166e426 h1:q9a/R9kY3a
 github.com/luizdepra/hugo-coder v0.0.0-20221206124133-846fb166e426/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
 github.com/luizdepra/hugo-coder v0.0.0-20221212231810-7fa76b460a7e h1:O8dJ2w/r6F8aFOrOMMlh+SJkrkGUCDqFNWkg5U/5a6Y=
 github.com/luizdepra/hugo-coder v0.0.0-20221212231810-7fa76b460a7e/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
+github.com/luizdepra/hugo-coder v0.0.0-20221216144924-57d7d5eb05d9 h1:dk8JyiAiLTXDYtlTlDSxe/DV6C79MZCobP6CV5fCEcw=
+github.com/luizdepra/hugo-coder v0.0.0-20221216144924-57d7d5eb05d9/go.mod h1:9EQBf2rU+NPjlohGuKcEgdqSeOc3tIQoOty4xPpuUQ4=
 github.com/lxndrblz/anatole v1.5.0 h1:ERhfTSN9bAqQ0Vo6jBf07kreggqVo/4kDwFiTPZFI0I=
 github.com/lxndrblz/anatole v1.5.0/go.mod h1:tY4xW0M9eqGqZD+cRTUPfe/zJHQk/Wmi4K+7Dh81Pqg=
 github.com/lxndrblz/anatole v1.6.0 h1:txlQUrCEn7wjAoDbkjtbNlqE8D/k0Im+rk3XCQCH9KM=
@@ -1850,6 +1854,8 @@ github.com/panr/hugo-theme-hello-friend v0.0.0-20221030072121-5cb89a1647fe h1:IU
 github.com/panr/hugo-theme-hello-friend v0.0.0-20221030072121-5cb89a1647fe/go.mod h1:JIa0X0X//YWawD537HytHDdYUhl4TtOMRx+HCMJXEc4=
 github.com/panr/hugo-theme-hello-friend v0.0.0-20221031072203-384687454417 h1:B307DX2DNTF9Ujy+rEfSAbkgG5xDtzW2/iIta2ZkZzY=
 github.com/panr/hugo-theme-hello-friend v0.0.0-20221031072203-384687454417/go.mod h1:JIa0X0X//YWawD537HytHDdYUhl4TtOMRx+HCMJXEc4=
+github.com/panr/hugo-theme-hello-friend v0.0.0-20221216213756-95a746521aa4 h1:rqEHbG6X/lMkbdIGRE5hkKf9BsMvzgUI7GuKyCQM2DQ=
+github.com/panr/hugo-theme-hello-friend v0.0.0-20221216213756-95a746521aa4/go.mod h1:JIa0X0X//YWawD537HytHDdYUhl4TtOMRx+HCMJXEc4=
 github.com/panr/hugo-theme-terminal v0.0.0-20220122081710-6ad2d19be8df h1:ceDBTkO6Cx1ssuXj8x3n4ucc+taJQXWEaMkFuD6/c3g=
 github.com/panr/hugo-theme-terminal v0.0.0-20220122081710-6ad2d19be8df/go.mod h1:kiO0NHUXPNrG6BFRlat5jc078p3e1f2sLlpt0a23MEY=
 github.com/panr/hugo-theme-terminal v0.0.0-20220207104835-9d458d193fee h1:0qh1v++zTw3p17WwqLuZq7Uml6gnpUZXlOdVvhWtlOg=
@@ -1890,6 +1896,8 @@ github.com/parsiya/Hugo-Octopress v0.0.0-20220115102427-c4f772965b32 h1:y9dXmTvG
 github.com/parsiya/Hugo-Octopress v0.0.0-20220115102427-c4f772965b32/go.mod h1:D0LXeujvveqza350hX2GgkJlf2s4ddLTC7Bg6r+5TzI=
 github.com/parsiya/Hugo-Octopress v0.0.0-20221111221803-b4ee5919d2d7 h1:r3miqA3uyjjsIjcS+3vmWSpLHx8gRP7OzF3vXmjowBc=
 github.com/parsiya/Hugo-Octopress v0.0.0-20221111221803-b4ee5919d2d7/go.mod h1:D0LXeujvveqza350hX2GgkJlf2s4ddLTC7Bg6r+5TzI=
+github.com/parsiya/Hugo-Octopress v0.0.0-20221218202713-bdbfaa5ecbe4 h1:kAILw58dcRSIiCmutIeKMd7SWUQprlgZgsskRbjHiws=
+github.com/parsiya/Hugo-Octopress v0.0.0-20221218202713-bdbfaa5ecbe4/go.mod h1:D0LXeujvveqza350hX2GgkJlf2s4ddLTC7Bg6r+5TzI=
 github.com/pavel-pi/kiss-em v2.0.0+incompatible h1:JqnNbUxtB0uFQmoY8w64KuD86qsuZgR/izhkQC7Adu8=
 github.com/pavel-pi/kiss-em v2.0.0+incompatible/go.mod h1:f+mO8yTgb1+sWWczL2Ks0j5onemyN01Ii3Gc9niOCFk=
 github.com/pdevty/material-design v0.0.0-20160828002125-587b3af7db83 h1:KBWTiUhhdBBdwKKulfWuUCb3hm6pR8HFrUqA6e8wXVg=
