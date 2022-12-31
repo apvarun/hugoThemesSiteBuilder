@@ -274,6 +274,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20221223112755-24d8d65633e8 h1:pte
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221223112755-24d8d65633e8/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221226010817-2b9bbeb51da3 h1:FDvhyAeWMqujNqDmN4clck424zvXd4ZefZ4FcD9o/QY=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20221226010817-2b9bbeb51da3/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221230001326-0bed2a7096e6 h1:7PTU2Xv90O3dEgTfUUbbinYnRutQ5RpwnlnkgZmsM5M=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20221230001326-0bed2a7096e6/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd h1:V7TmvQxC5XLD6hgZhpnIXH5hwvQmN0ZO7nP/eEME84s=
 github.com/MeiK2333/github-style v0.0.0-20220117031815-10b5d623ccbd/go.mod h1:MDvfpZqhD/YSKR6X4f5hVUv588HxL1MVjsCTSM7ETxs=
 github.com/MeiK2333/github-style v0.0.0-20220127073508-cde2c76a1b9e h1:2ISQ9qQNtZZqSTefgGsmVQGgVtpidhfjxwrwGR2EiRc=
@@ -584,6 +586,8 @@ github.com/athul/archie v0.0.0-20221127115933-5d283cd3a9d6 h1:rQDb8bbNNM4eLaTkpL
 github.com/athul/archie v0.0.0-20221127115933-5d283cd3a9d6/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
 github.com/athul/archie v0.0.0-20221204184931-e1a339216574 h1:jNk06FlKpLkRaSoSaoCEFt+xCNxor1rApT0VjyiucD0=
 github.com/athul/archie v0.0.0-20221204184931-e1a339216574/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
+github.com/athul/archie v0.0.0-20221229115253-3fa25abce441 h1:N8HGdGtrhS4H1SY46TxOox9Q1ayZFCWsrGFJTGn6PUY=
+github.com/athul/archie v0.0.0-20221229115253-3fa25abce441/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
 github.com/austingebauer/devise v0.0.0-20210831032933-8929bedb6ab4 h1:GT4wdshXCoLDbZiBS7Q2lH+vWnJsapD8f373MbJJlnI=
 github.com/austingebauer/devise v0.0.0-20210831032933-8929bedb6ab4/go.mod h1:iwUVpBALcG7hoLMK5JUORXGMd+266LxCQ3al16B3hKQ=
 github.com/austingebauer/devise v0.0.0-20220516000139-061262fde2d1 h1:0WXmcWHPVoTqdh0Fu2/IhCnh5vszZlXnvlNv4WJ1MGc=
@@ -630,6 +634,8 @@ github.com/capnfabs/paperesque v0.0.0-20221204204228-d2af06f91a3d h1:RNd0gokV5gs
 github.com/capnfabs/paperesque v0.0.0-20221204204228-d2af06f91a3d/go.mod h1:esZ0bM9RpwRG2I71ZuSv7NuS2OsYf5t7iMLbxYKAmCE=
 github.com/capnfabs/paperesque v0.0.0-20221220094621-05363451bc7d h1:z8DI+5gwA0s5LZx4qZrOcmfaWt1ecnFC6HQjqQjt+vo=
 github.com/capnfabs/paperesque v0.0.0-20221220094621-05363451bc7d/go.mod h1:esZ0bM9RpwRG2I71ZuSv7NuS2OsYf5t7iMLbxYKAmCE=
+github.com/capnfabs/paperesque v0.0.0-20221229161001-67df751e631e h1:p0LTfOKsNNujf9Vr5VEcAtNH58CjCLKaypyhoCOm98c=
+github.com/capnfabs/paperesque v0.0.0-20221229161001-67df751e631e/go.mod h1:esZ0bM9RpwRG2I71ZuSv7NuS2OsYf5t7iMLbxYKAmCE=
 github.com/caressofsteel/hugo-story v0.0.0-20210323165326-9ffd114b384f h1:qLuKiw0QuwkocrCWByqodc5zBrmJLmU5C8rk4mL94lA=
 github.com/caressofsteel/hugo-story v0.0.0-20210323165326-9ffd114b384f/go.mod h1:hC6+sKf4FuYZ8t9krDb//men0iVi+0bZnYFteVpVYKk=
 github.com/caressofsteel/hugo-story v0.0.0-20220602233352-21dd26dda2b0 h1:w1EeTmUS87dWwmNDUnxs9JwFpB+ES3VUz3RoP9EvyfM=
@@ -864,6 +870,8 @@ github.com/dzello/reveal-hugo v0.0.0-20221108090702-d5b1a17dd0f5 h1:HKX0RC/xYNuh
 github.com/dzello/reveal-hugo v0.0.0-20221108090702-d5b1a17dd0f5/go.mod h1:0S5eDEdHBx8tSj8veo9lUnuJRXa8WqmpANd0Lz7CLc8=
 github.com/dzello/reveal-hugo v0.0.0-20221115142005-be7961c06dd6 h1:voG3HCPI7trfKXzB8UTTvJ7A7EaFRIajDqQKUdTIcRM=
 github.com/dzello/reveal-hugo v0.0.0-20221115142005-be7961c06dd6/go.mod h1:0S5eDEdHBx8tSj8veo9lUnuJRXa8WqmpANd0Lz7CLc8=
+github.com/dzello/reveal-hugo v0.0.0-20221228063604-4c190e12065e h1:LQvRSfgRghe5G1hfIAgWA4HTSOWe7WysTp/j1PiNdwg=
+github.com/dzello/reveal-hugo v0.0.0-20221228063604-4c190e12065e/go.mod h1:0S5eDEdHBx8tSj8veo9lUnuJRXa8WqmpANd0Lz7CLc8=
 github.com/edavidaja/docter v0.2.0 h1:5sDokCJdSqvfqPIqyK+w1VISDqMu6FL78rBwp0DFsXo=
 github.com/edavidaja/docter v0.2.0/go.mod h1:g9m+41OnpMEuOmNmY4y1JfRyvB0F6a7jq++0JB1yFvA=
 github.com/eddiewebb/hugo-resume v0.0.0-20210909002550-d3d300cadfee h1:KcodkjTdIs6WOH7kosqVkQJtCUgPesveR8DFXPGU71k=
@@ -1780,6 +1788,8 @@ github.com/onweru/compose v0.0.0-20220410084245-65b76042967a h1:bsd3UpOPjyik/cPV
 github.com/onweru/compose v0.0.0-20220410084245-65b76042967a/go.mod h1:tf1kQIBUcwJ/3mRFU5eiMrMvsDScVTK2IEFsZE3hZOc=
 github.com/onweru/compose v0.0.0-20220613192136-823b5de743db h1:nYOIKq9elvPvKHIMJmr5yFMMouDvniv5aavHH9Beghg=
 github.com/onweru/compose v0.0.0-20220613192136-823b5de743db/go.mod h1:tf1kQIBUcwJ/3mRFU5eiMrMvsDScVTK2IEFsZE3hZOc=
+github.com/onweru/compose v0.0.0-20221230112641-fc880bd38897 h1:3PfuohvyChhjW8jh0iAyoIBh85lhg1JmSE5l0Pj95Z8=
+github.com/onweru/compose v0.0.0-20221230112641-fc880bd38897/go.mod h1:tf1kQIBUcwJ/3mRFU5eiMrMvsDScVTK2IEFsZE3hZOc=
 github.com/onweru/hugo-swift-theme v2.0.0+incompatible h1:UGc/TiOzqcSnNyfkkKoU8vQ9wGQTBmLjkblGcPhnzjM=
 github.com/onweru/hugo-swift-theme v2.0.0+incompatible/go.mod h1:Flki1A7Xnz36putWgud7Dmfqn4wIwoiAQO1pnNb4IOs=
 github.com/onweru/newsroom v0.0.0-20220114000312-a46aedf8f0c5 h1:ooAGhkoF7KRpD/CJ5/dbPl8yp08u5HABu7uC7dDOSFw=
@@ -2084,6 +2094,8 @@ github.com/samrobbins85/hugo-developer-portfolio v0.0.0-20220327150320-5f46da78b
 github.com/samrobbins85/hugo-developer-portfolio v0.0.0-20220327150320-5f46da78b531/go.mod h1:k8pYFLOf99+RFAdeKwBJGfgN2jyoX2bBv8j2MUaiqdo=
 github.com/samrobbins85/hugo-developer-portfolio v0.0.0-20221210160004-0f8921bf54bf h1:zK4FOrzct4H4rig6JwopsZBzzQA7uVCUmCVvJDRobbw=
 github.com/samrobbins85/hugo-developer-portfolio v0.0.0-20221210160004-0f8921bf54bf/go.mod h1:k8pYFLOf99+RFAdeKwBJGfgN2jyoX2bBv8j2MUaiqdo=
+github.com/samrobbins85/hugo-developer-portfolio v0.0.0-20221230201635-d7e23c1c723e h1:GHaZLtgwC8Zd5XxqbHwMEvWBRHSWkvZFLPhG5JHqjao=
+github.com/samrobbins85/hugo-developer-portfolio v0.0.0-20221230201635-d7e23c1c723e/go.mod h1:k8pYFLOf99+RFAdeKwBJGfgN2jyoX2bBv8j2MUaiqdo=
 github.com/schmanat/hugo-highlights-theme v0.0.0-20200409134000-79eb66a32c74 h1:FlcauPDVTB/VB7c0cK2K7D682gHaMwlftvVGrhDcvEM=
 github.com/schmanat/hugo-highlights-theme v0.0.0-20200409134000-79eb66a32c74/go.mod h1:T0ejOcPeyItxiGbJcGpAau/R3cWZMdMvO9NIar8F8eU=
 github.com/schollz/onetwothree v0.0.0-20190916161743-a09e6530494c h1:503PXSWQR7gXGemoNiHnFz76i8pLEgTF0tLDnBIU9DQ=
